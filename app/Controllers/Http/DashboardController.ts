@@ -16,6 +16,4 @@ export default class DashboardController {
   public async edit({}: HttpContextContract) {}
 
   public async update({}: HttpContextContract) {}
-
-  public async destroy({}: HttpContextContract) {}
 }
