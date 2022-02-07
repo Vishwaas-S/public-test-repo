@@ -1,2 +1,2 @@
-ggtest.js
+ggtest
 gg
