@@ -1,2 +1,1 @@
-abc.js
-def
+oooo gggg
