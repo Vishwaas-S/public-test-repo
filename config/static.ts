@@ -2,7 +2,7 @@
  * Config source: https://git.io/Jfefl
  *
  * Feel free to let us know via PR, if you find something broken in this config
- * file.
+ * file gg.
  */
 
 import { AssetsConfig } from '@ioc:Adonis/Core/Static'
