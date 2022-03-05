@@ -23,7 +23,7 @@ const sessionConfig: SessionConfig = {
 
   /*
   |--------------------------------------------------------------------------
-  | Driver
+  | Driverdf
   |--------------------------------------------------------------------------
   |
   | The session driver to use. You can choose between one of the following
