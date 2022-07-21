@@ -1,6 +1,6 @@
 /**
  * Feel free to let me know via PR,
- * if you find something broken in this config file.
+ * if you find something broken in this config file....
  */
 
 import { InertiaConfig } from '@ioc:EidelLev/Inertia';
