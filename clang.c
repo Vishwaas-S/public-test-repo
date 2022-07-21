@@ -21,7 +21,7 @@ void f2()
         }
     }
 
-    // p is NULL if str doesn't have a space. If str always has a
+    // p is NULL if str doesn't have a space. If str always has ass
     // a space then the condition (str[i] != '\0') would be redundant
     return p[1];
 }
