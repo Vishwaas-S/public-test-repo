@@ -3,7 +3,8 @@ void f1(struct fred_t *p)
 
 
 
-    // Dereference p and then check if it's NULLL
+
+    // Dereference p and then check if it's NULL L
     int x = p->x;
     if (p)
         do_something(x);
@@ -21,7 +22,7 @@ void f2()
         }
     }
 
-    // p is NULL if str doesn't have a space. If str always has a
+    // p is NULL if str doesn't have a space. If str always has ass
     // a space then the condition (str[i] != '\0') would be redundant
     return p[1];
 }
